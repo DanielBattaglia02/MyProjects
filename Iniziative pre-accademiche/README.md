@@ -1,1 +1,1 @@
-Questa sezione raggruppa tutti quei progetti che ho sviluppato durante il seguente periodo: 15-19 anni.
+Questa sezione raggruppa i progetti più rappresentativi del mio percorso pre-accademico: 16-19 anni.
