@@ -1,0 +1,17 @@
+
+/*tabella pagina contatti*/
+
+.tabellacontatti { float: right; width: 60%; border: 2px solid black; border-radius: 10px; margin: 2%; }
+
+.tabellacontatti th { background-color: #ecec53; border-radius: 8px; padding: 10px 2px; }
+
+.tabellacontatti td { background-color: white; padding: 7px 2px; border-radius: 8px; }
+
+
+
+/*layout schermi più piccoli*/
+
+@media screen and (max-width: 1200px)
+{
+    .tabellacontatti { float: left; width: 96%; border: 2px solid black; border-radius: 10px; margin: 2%; }
+}
