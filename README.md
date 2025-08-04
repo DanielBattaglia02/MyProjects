@@ -1,5 +1,10 @@
-Ciao tutti e benvenuti nella mia zona progetti.
+👋 Benvenuti nella mia zona progetti
+In questo spazio ho raccolto i progetti che ho realizzato nel tempo. Ogni directory rappresenta una categoria di progetti, e all’interno troverai diversi lavori suddivisi per tipologia.
 
-Ogni directory indica le tipologie di progetto che ho realizzato, al cui interno ce ne sono diversi. 
+📂 Struttura dei progetti
+Ho organizzato il materiale in tre sezioni principali:
+- Progetti pre-accademici
+- Progetti post-accademici
+- Progetti autonomi e sperimentali
 
-E' possibile accedere al mio sitoweb tramite il seguente link: https://www.danielbattaglia.it/index.html
+Questa divisione riflette il mio percorso personale e formativo, perché ogni fase ha avuto un ruolo importante nella mia crescita come sviluppatore.
