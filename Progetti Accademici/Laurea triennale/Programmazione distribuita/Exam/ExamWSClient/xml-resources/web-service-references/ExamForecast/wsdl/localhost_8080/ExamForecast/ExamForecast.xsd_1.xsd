@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?><!-- Published by XML-WS Runtime (https://github.com/eclipse-ee4j/metro-jax-ws). Runtime's version is Eclipse Metro/4.0.4 (RELEASE-4.0.4-ec440d5; 2024-06-28T10:09:00+0000) XMLWS-Impl/4.0.3 XMLWS-API/4.0.2 XMLB-Impl/4.0.5 XMLB-API/4.0.2 git-revision#ec440d5. --><xs:schema xmlns:tns="http://exam/" xmlns:xs="http://www.w3.org/2001/XMLSchema" version="1.0" targetNamespace="http://exam/">
+
+<xs:element name="exam_forecast" type="tns:exam_forecast"/>
+
+<xs:element name="exam_forecastResponse" type="tns:exam_forecastResponse"/>
+
+<xs:complexType name="exam_forecast">
+<xs:sequence>
+<xs:element name="forecast_id" type="xs:long" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+
+<xs:complexType name="exam_forecastResponse">
+<xs:sequence>
+<xs:element name="return" type="xs:string" minOccurs="0"/>
+</xs:sequence>
+</xs:complexType>
+</xs:schema>
