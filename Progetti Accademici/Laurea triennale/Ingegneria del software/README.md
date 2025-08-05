@@ -17,4 +17,4 @@ Contenuti della cartella:
 
 Codice sorgente
 Il codice completo e aggiornato del progetto è disponibile in una repository GitHub separata:
-[Inserire qui il link alla repository del codice]
+https://github.com/DanielBattaglia02/MagazON-Lab-Public
