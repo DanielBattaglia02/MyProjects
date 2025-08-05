@@ -1,0 +1,908 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "Aree_attesa_1_1_15fa7736_d871_4474_a450_6185efc4e1bf": {
+        "enabled": true,
+        "groups": []
+      },
+      "Aree_incontro_1_1_f6bfacf8_4f4b_4b8a_86a0_418cd03f5c01": {
+        "enabled": true,
+        "groups": []
+      },
+      "Aree_incontro_1_2_8ae1c790_404f_42dd_bc70_6d29d538da2a": {
+        "enabled": true,
+        "groups": []
+      },
+      "Aree_incontro_1_3_c7e84f66_edb6_4153_baac_d15fcd00c043": {
+        "enabled": true,
+        "groups": []
+      },
+      "Comuni_80344a3e_11e2_477b_9cd4_cee4d25821f1": {
+        "enabled": true,
+        "groups": []
+      },
+      "DEM_Vesuvio_e6579ad1_9f85_471d_82ed_23ae3d4613b2": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_0_aacbe229_b9e4_4c4d_93cd_d4802081af6f": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_10_1c79f90a_553b_46e0_93a7_039705f1e768": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_11_65377ead_4dca_4edc_8167_cf21bc8c5289": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_12_a1591cfb_4d47_4efc_a66c_71fe497724de": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_13_a2226a33_a782_4ba4_83b0_de5083723de5": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_14_5d509890_1c83_4f7c_9781_8bd54bb16757": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_15_1c0bd4bc_a123_42bd_bc5e_314d9b747d8b": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_16_b8bfaf4b_af41_4c7f_ba29_d37e13e6a2ea": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_17_9a350741_33f4_4b15_aa2a_3b76a57ad12a": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_18_ffcd2b45_7520_4151_8f6b_d1d1c2cc9b99": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_19_309828da_f33e_4c0a_8274_b377ac9a425e": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_1_90136384_7068_444c_b7c4_2a8aaaa18d2b": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_20_c5ce9295_6b27_4957_a902_8b0080740e64": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_21_2f548ce5_e0c2_447d_8fcb_2be1c0309e35": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_22_9dbd3a3d_3f5b_489d_a814_95c44fa765b7": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_23_6c4f78fc_1076_4c2c_9b71_e6503cb71b14": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_24_94eb46c9_f10d_4635_8f2b_7ab822e0804d": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_25_2973f95b_93c0_4500_a83d_e04f44bfc6f7": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_26_35766281_8825_4a34_949c_e6ab16cd5a43": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_27_e0aff979_cf9e_42d1_a5d3_90f497b9c642": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_28_6221da7a_1629_46a6_bba9_eb72f7fa4615": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_29_f577c43e_799f_41a3_9ff8_40c2f8cfc80b": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_3_f89bbde5_e976_4930_af38_1e2f7636617e": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_4_6825e002_9a98_4e82_b9bd_e5a7c8559a3e": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_5_07be8563_1bb3_4244_aedc_f58dc993a2d3": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_6_92ffe7e4_8785_4442_b948_feb3bc0bffae": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_7_4c1f33ad_1c3e_4b25_a40f_59c59505ef50": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_8_d3bd520c_37ca_4f87_811d_deeffc5f2049": {
+        "enabled": true,
+        "groups": []
+      },
+      "ID_9_4ad54980_27f4_443e_98c5_4b8b6a19aa51": {
+        "enabled": true,
+        "groups": []
+      },
+      "Intersezione_zona_gialla_de9aea32_9581_4ba0_be68_ccc5d6e10968": {
+        "enabled": true,
+        "groups": []
+      },
+      "Intersezione_zona_rossa_59232976_0f83_4c9f_ac4e_5e8e9b4cb753": {
+        "enabled": true,
+        "groups": []
+      },
+      "Maschera_Vesuvio_6caf15b2_baec_45bd_8b2e_05b4697d4339": {
+        "enabled": true,
+        "groups": []
+      },
+      "Province_1b50d1f1_50dc_4abc_be0b_8c55aab27240": {
+        "enabled": true,
+        "groups": []
+      },
+      "Tutti_i_percorsi_bf0ede5d_57d5_4db0_8eb8_020ee7d3c522": {
+        "enabled": true,
+        "groups": []
+      },
+      "Vesuvio_1fb9867d_b088_4e85_a2bd_59fbedc478e5": {
+        "enabled": true,
+        "groups": []
+      },
+      "ZonaGiallaPianificazioneVesuvio_056d45fc_5987_4b41_b326_ba9eb6648888": {
+        "enabled": true,
+        "groups": []
+      },
+      "ZonaRossaPianificazioneVesuvio_3c692c05_a18e_4d04_ac22_54d064560be0": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:5ad64809": {
+        "enabled": true,
+        "groups": []
+      },
+      "piano_naz_ves_dati_aree_attesa_add8e100_de0d_48f2_b065_ef62b7e7c82e": {
+        "enabled": true,
+        "groups": []
+      },
+      "piano_naz_ves_dati_aree_incontro_7229318e_8224_4e1f_860e_d9481eea36ac": {
+        "enabled": true,
+        "groups": []
+      },
+      "w45090_s10_45725f4b_e7eb_49db_9aab_91f505891527": {
+        "enabled": true,
+        "groups": []
+      },
+      "w45095_s10_59a1be07_78f3_4dd5_9f03_19aa4d6484aa": {
+        "enabled": true,
+        "groups": []
+      },
+      "w45590_s10_47f34b4b_8e3f_4af2_b1c8_2859d35ba0cc": {
+        "enabled": true,
+        "groups": []
+      },
+      "w45595_s10_bb00f681_541e_4186_a4ca_f95897d44340": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 2,
+      "layerId": "ID_29_f577c43e_799f_41a3_9ff8_40c2f8cfc80b",
+      "name": "ID_29",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_28_6221da7a_1629_46a6_bba9_eb72f7fa4615",
+      "name": "ID_28",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_27_e0aff979_cf9e_42d1_a5d3_90f497b9c642",
+      "name": "ID_27",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_26_35766281_8825_4a34_949c_e6ab16cd5a43",
+      "name": "ID_26",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_25_2973f95b_93c0_4500_a83d_e04f44bfc6f7",
+      "name": "ID_25",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_24_94eb46c9_f10d_4635_8f2b_7ab822e0804d",
+      "name": "ID_24",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_23_6c4f78fc_1076_4c2c_9b71_e6503cb71b14",
+      "name": "ID_23",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_22_9dbd3a3d_3f5b_489d_a814_95c44fa765b7",
+      "name": "ID_22",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_21_2f548ce5_e0c2_447d_8fcb_2be1c0309e35",
+      "name": "ID_21",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_20_c5ce9295_6b27_4957_a902_8b0080740e64",
+      "name": "ID_20",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_19_309828da_f33e_4c0a_8274_b377ac9a425e",
+      "name": "ID_19",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_18_ffcd2b45_7520_4151_8f6b_d1d1c2cc9b99",
+      "name": "ID_18",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_17_9a350741_33f4_4b15_aa2a_3b76a57ad12a",
+      "name": "ID_17",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_16_b8bfaf4b_af41_4c7f_ba29_d37e13e6a2ea",
+      "name": "ID_16",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_15_1c0bd4bc_a123_42bd_bc5e_314d9b747d8b",
+      "name": "ID_15",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_14_5d509890_1c83_4f7c_9781_8bd54bb16757",
+      "name": "ID_14",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_13_a2226a33_a782_4ba4_83b0_de5083723de5",
+      "name": "ID_13",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_12_a1591cfb_4d47_4efc_a66c_71fe497724de",
+      "name": "ID_12",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_11_65377ead_4dca_4edc_8167_cf21bc8c5289",
+      "name": "ID_11",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_10_1c79f90a_553b_46e0_93a7_039705f1e768",
+      "name": "ID_10",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_9_4ad54980_27f4_443e_98c5_4b8b6a19aa51",
+      "name": "ID_9",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_8_d3bd520c_37ca_4f87_811d_deeffc5f2049",
+      "name": "ID_8",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_7_4c1f33ad_1c3e_4b25_a40f_59c59505ef50",
+      "name": "ID_7",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_6_92ffe7e4_8785_4442_b948_feb3bc0bffae",
+      "name": "ID_6",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_5_07be8563_1bb3_4244_aedc_f58dc993a2d3",
+      "name": "ID_5",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_4_6825e002_9a98_4e82_b9bd_e5a7c8559a3e",
+      "name": "ID_4",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_3_f89bbde5_e976_4930_af38_1e2f7636617e",
+      "name": "ID_3",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_1_90136384_7068_444c_b7c4_2a8aaaa18d2b",
+      "name": "ID_1",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "ID_0_aacbe229_b9e4_4c4d_93cd_d4802081af6f",
+      "name": "ID_0",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "Tutti_i_percorsi_bf0ede5d_57d5_4db0_8eb8_020ee7d3c522",
+      "name": "Tutti i percorsi",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "DEM_Vesuvio_e6579ad1_9f85_471d_82ed_23ae3d4613b2",
+      "name": "DEM Vesuvio",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "Intersezione_zona_gialla_de9aea32_9581_4ba0_be68_ccc5d6e10968",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "7e9fc733",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "7e9fc733",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 3,
+      "layerId": "Intersezione_zona_gialla_de9aea32_9581_4ba0_be68_ccc5d6e10968",
+      "name": "Intersezione zona gialla",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Intersezione_zona_rossa_59232976_0f83_4c9f_ac4e_5e8e9b4cb753",
+      "name": "Intersezione zona rossa",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Aree_incontro_1_3_c7e84f66_edb6_4153_baac_d15fcd00c043",
+      "name": "Aree incontro 1.3",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Aree_attesa_1_1_15fa7736_d871_4474_a450_6185efc4e1bf",
+      "name": "Aree attesa 1.1",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Aree_incontro_1_2_8ae1c790_404f_42dd_bc70_6d29d538da2a",
+      "name": "Aree incontro 1.2",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Aree_incontro_1_1_f6bfacf8_4f4b_4b8a_86a0_418cd03f5c01",
+      "name": "Aree incontro 1.1",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "piano_naz_ves_dati_aree_incontro_7229318e_8224_4e1f_860e_d9481eea36ac",
+      "name": "piano_naz_ves_dati_aree_incontro",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "piano_naz_ves_dati_aree_attesa_add8e100_de0d_48f2_b065_ef62b7e7c82e",
+      "name": "piano_naz_ves_dati_aree_attesa",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "ZonaRossaPianificazioneVesuvio_3c692c05_a18e_4d04_ac22_54d064560be0",
+      "name": "ZonaRossaPianificazioneVesuvio",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Label": false,
+        "checkBox_Outline": true,
+        "checkBox_Underline": false,
+        "checkBox_Visible": true,
+        "colorButton_BgColor": [
+          255,
+          255,
+          255,
+          176
+        ],
+        "colorButton_ConnColor": [
+          192,
+          192,
+          208,
+          255
+        ],
+        "colorButton_Label": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_OtlColor": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "comboBox_FontFamily": "sans-serif",
+        "comboBox_ObjectType": "Polygon",
+        "comboBox_altitudeMode": null,
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "None",
+          "editText": "",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "expression_Label": "\"localID\"",
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {},
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "groupBox_Background": true,
+        "groupBox_Conn": true,
+        "labelHeightWidget": {
+          "comboData": 1,
+          "comboText": "Relative",
+          "editText": "50",
+          "type": 6
+        },
+        "lineEdit_Name": "",
+        "mtlWidget0": {},
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "slider_FontSize": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "ZonaGiallaPianificazioneVesuvio_056d45fc_5987_4b41_b326_ba9eb6648888",
+      "name": "ZonaGiallaPianificazioneVesuvio",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Maschera_Vesuvio_6caf15b2_baec_45bd_8b2e_05b4697d4339",
+      "name": "Maschera Vesuvio",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "w45090_s10_45725f4b_e7eb_49db_9aab_91f505891527",
+      "name": "w45090_s10",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "Intersezione_zona_gialla_de9aea32_9581_4ba0_be68_ccc5d6e10968",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "e991a602",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "e991a602",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "w45095_s10_59a1be07_78f3_4dd5_9f03_19aa4d6484aa",
+      "name": "w45095_s10",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "Intersezione_zona_gialla_de9aea32_9581_4ba0_be68_ccc5d6e10968",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "f08e6278",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "f08e6278",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "w45590_s10_47f34b4b_8e3f_4af2_b1c8_2859d35ba0cc",
+      "name": "w45590_s10",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "Intersezione_zona_gialla_de9aea32_9581_4ba0_be68_ccc5d6e10968",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "f5b54c18",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "f5b54c18",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "w45595_s10_bb00f681_541e_4186_a4ca_f95897d44340",
+      "name": "w45595_s10",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "Intersezione_zona_gialla_de9aea32_9581_4ba0_be68_ccc5d6e10968",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "1db2a17c",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "1db2a17c",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 1,
+      "layerId": "Vesuvio_1fb9867d_b088_4e85_a2bd_59fbedc478e5",
+      "name": "Vesuvio",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Comuni_80344a3e_11e2_477b_9cd4_cee4d25821f1",
+      "name": "Comuni",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "Province_1b50d1f1_50dc_4abc_be0b_8c55aab27240",
+      "name": "Province",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:5ad64809",
+      "name": "Flat Plane",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "lineEdit_Altitude": "0",
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "26df4a26",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "26df4a26",
+        "spinBox_Size": 3
+      },
+      "visible": false
+    }
+  ],
+  "SCENE": {
+    "checkBox_FixAspectRatio": true,
+    "checkBox_Outline": false,
+    "colorButton_Color": [
+      0,
+      0,
+      0,
+      255
+    ],
+    "colorButton_Fog": [
+      255,
+      255,
+      255,
+      255
+    ],
+    "comboBox_MaterialType": 0,
+    "comboBox_xyShift": true,
+    "groupBox_Fog": false,
+    "lineEdit_CenterX": "1596233.5024184217",
+    "lineEdit_CenterY": "4977568.550886188",
+    "lineEdit_Height": "135866.8177741072",
+    "lineEdit_Rotation": "0",
+    "lineEdit_Width": "135866.8177741072",
+    "lineEdit_zFactor": "4",
+    "slider_Fog": 41
+  },
+  "Version": 20800
+}
