@@ -1,0 +1,1 @@
+<Query>Select Territorio, Osservazione FROM PopolazioneCampania WHERE Sesso='Totale' AND TIME_PERIOD='2025'</Query>
