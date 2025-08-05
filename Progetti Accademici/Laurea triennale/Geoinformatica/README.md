@@ -1,3 +1,1 @@
-Il progetto si è incentrato sul reperimento di open data da siti ufficiali (shapefile, raster, CSV e altri formati geospaziali) e 
-sull’uso di QGIS per la loro manipolazione e analisi.
-L'obiettivo è stato quello di condurre uno studio geoinformatico sull’area vesuviana.
+Questa cartella raccoglie una serie di progetti realizzati con QGIS, basati sull'uso di open data provenienti da fonti ufficiali. I progetti prevedono l’utilizzo di shapefile, raster, CSV e altri formati geospaziali per effettuare analisi territoriali e visualizzazioni cartografiche.
