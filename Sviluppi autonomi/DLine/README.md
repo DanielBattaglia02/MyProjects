@@ -1,31 +1,5 @@
-DLine è un sistema IoT (Internet of Things) completo per la gestione intelligente delle code all'interno di attività commerciali. Nato come applicazione pratica di competenze multidisciplinari e ispirato dalle dinamiche operative osservate durante un'esperienza lavorativa presso Vanessa Sound, il progetto implementa un'architettura client-server integrata dal dispositivo fisico fino all'interfaccia web gestionale.
+DLine è un sistema IoT ad architettura client-server per la gestione intelligente delle code nelle attività commerciali, nato dall'esigenza di approfondire le dinamiche di dispositivi simili osservati durante un'esperienza lavorativa presso Vanessa Sound. Il progetto coniuga la programmazione embedded con lo sviluppo web full-stack, creando un flusso di comunicazione continuo tra un erogatore fisico e un gestionale cloud.
 
-⚙️ Architettura e Funzionamento
-Il sistema si basa sull'interazione in tempo reale tra un dispositivo fisico (Client) e un'infrastruttura di Web Hosting (Server):
+Il terminale hardware (il Client), realizzato con componenti dell'ecosistema Arduino e programmato tramite Arduino IDE, gestisce le interazioni fisiche: alla pressione del pulsante da parte dell'utente, comunica con il server, aggiorna il display OLED integrato e stampa il biglietto tramite una stampante termica. Lato Web (il Server), l'infrastruttura è sviluppata in PHP con un database relazionale. Lo scambio dati tra l'hardware e il server utilizza il formato JSON, mentre le interfacce web — un monitor pubblico per la sala d'attesa e un pannello amministrativo per l'avanzamento o il reset dei turni da parte dei cassieri — sfruttano chiamate asincrone AJAX per garantire aggiornamenti in tempo reale in pagina.
 
-Terminale Utente (Hardware): Attraverso il dispositivo fisico DLine, il cliente richiede un ticket premendo un pulsante. Il microcontrollore elabora la richiesta, comunica con il server, mostra il turno sul display integrato e stampa il biglietto fisico tramite una stampante termica.
-
-Public Monitor (Interfaccia Web): Una pagina web dedicata alla sala d'attesa che mostra in tempo reale il numero in fase di servizio e il totale delle persone in coda.
-
-Admin Dashboard (Interfaccia Web): Un pannello di controllo riservato al personale (es. cassieri) per gestire l'avanzamento dei numeri serviti o effettuare il reset globale del sistema.
-
-🛠️ Stack Tecnologico
-Il progetto unisce la programmazione embedded allo sviluppo web full-stack, utilizzando le seguenti tecnologie:
-
-Hardware & Firmware:
-
-Costruito utilizzando componenti dell'ecosistema Arduino (microcontrollore, display OLED, pulsanti, stampante termica).
-
-Il firmware è stato interamente scritto e compilato tramite Arduino IDE.
-
-Back-end & Database:
-
-La logica server e la comunicazione con il database relazionale sono sviluppate in PHP.
-
-Il server espone API proprietarie per la gestione centralizzata dei turni.
-
-Front-end & Comunicazione:
-
-Lo scambio di dati tra il dispositivo hardware e il server web avviene tramite payload in formato JSON.
-
-Le interfacce web lato client utilizzano chiamate asincrone AJAX per comunicare con il backend PHP, garantendo aggiornamenti fluidi e in tempo reale delle code senza la necessità di ricaricare la pagina.
+Per tutti i dettagli architetturali, gli schemi di collegamento hardware e le logiche di sistema, si invita a consultare la relazione tecnica completa presente nel repository, dove è inoltre possibile visionare direttamente il codice sorgente del firmware e dell'applicativo web.
